@@ -73,4 +73,11 @@ console.log(a + b);*/
 // Boolean
 // Object
 // function
-    
+   // let array1 = [1, 2, 3];
+
+// let array2 = [...array1];
+// array1.push(4);
+// array1.push(5);
+
+// console.log(array1);
+// console.log(array2); 
